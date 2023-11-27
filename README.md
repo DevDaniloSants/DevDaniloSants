@@ -2,11 +2,12 @@
 ## olá! eu sou o Danilo.⚡
 <br/>
 
-<div>
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=DevDaniloSants&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="450px" align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaniloSants&layout=compact&langs_count=16&theme=dracula"/>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevDaniloSants&bg_color=transparent&color=bcc3fb&line=4c5a9e&point=007cdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DevDaniloSants&show_icons=true&count_private=true&hide_border=true&title_color=4169E1&icon_color=4169E1&text_color=c9d1d9&bg_color=0d1117" alt="Danilo Santos GitHub" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevDaniloSants&layout=compact&hide_border=true&title_color=4169E1&text_color=fff&bg_color=0d1117" />
 </div>
-<br/>
 
 ## 👥  How to reach me
 <div>
@@ -25,3 +26,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,github,postman)](https://skillicons.dev)
 <br/>
 <br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevDaniloSants&theme=nord&row=2&no-bg=true&column=8&margin-w=5&margin-h=15" />
+</p>
