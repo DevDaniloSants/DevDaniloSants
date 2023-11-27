@@ -1,5 +1,9 @@
 
 ## olá! eu sou o Danilo.⚡
+<p style="margin-top: '20px'">
+ &nbsp; &nbsp; Olá, eu sou Danilo, um desenvolvedor Front-end. Eu tenho uma paixão por criar soluções inovadoras e eficientes. Minha experiência inclui o uso de tecnologias como React e Node.js, entre outras. Sou motivado por desafios e estou sempre procurando aprender novas habilidades para melhorar meu trabalho. Estou animado para usar minhas habilidades para ajudar a criar soluções incríveis para a sua empresa.
+
+</p>
 <br/>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DevDaniloSants&bg_color=transparent&color=bcc3fb&line=4c5a9e&point=007cdb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
