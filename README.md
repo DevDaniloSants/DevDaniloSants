@@ -22,12 +22,12 @@
 <br/>
 
 ## ⚙️ Languages & Frameworks I code in
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,nodejs,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,js,ts,react,nodejs,express,redux,mongodb,firebase)](https://skillicons.dev)
 <br/>
 <br/>
 
 ## 💻 Things that help me getting my code done
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,figma,github,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ubuntu,vscode,git,figma,npm,github,postman)](https://skillicons.dev)
 <br/>
 <br/>
 
