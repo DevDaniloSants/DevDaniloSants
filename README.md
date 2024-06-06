@@ -22,7 +22,7 @@
 <br/>
 
 ## ⚙️ Languages & Frameworks I code in
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,js,ts,react,nodejs,express,redux,mongodb,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,js,ts,react,nodejs,express,redux,mongodb,firebase,jest)](https://skillicons.dev)
 <br/>
 <br/>
 
