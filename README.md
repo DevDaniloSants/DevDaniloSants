@@ -8,7 +8,7 @@
 <br/>
 
 ## ⚙️ Languages & Frameworks I code in
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,js,ts,react,nodejs,express,redux,docker,postgres,mongodb,firebase,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,styledcomponents,js,ts,react,nodejs,express,redux,docker,postgres,mongodb,firebase,jest,prisma)](https://skillicons.dev)
 <br/>
 <br/>
 
