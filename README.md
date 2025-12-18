@@ -32,6 +32,8 @@
 </div>
 <br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevDaniloSants&theme=nord&row=2&no-bg=true&column=8&margin-w=5&margin-h=15" />
-</p>
+<div align="center">
+ 
+[![trophy](https://github-trophies.vercel.app/?username=DevDaniloSants)](https://github.com/DevDaniloSants/github-trophies)
+
+</div>
